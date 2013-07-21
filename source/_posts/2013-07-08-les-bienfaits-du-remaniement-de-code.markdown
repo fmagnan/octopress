@@ -3,7 +3,7 @@ layout: post
 title: "les bienfaits du remaniement de code"
 date: 2013-07-08 23:25
 comments: true
-categories: 
+categories: PHP
 ---
 
 ## Introduction
