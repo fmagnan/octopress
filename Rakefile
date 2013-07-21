@@ -4,10 +4,10 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "www-data@gamelab.fr"
+ssh_user       = "octopress"
 ssh_port       = "2223"
 document_root  = "~/fmagnan.gamelab.fr/"
-rsync_delete   = false
+rsync_delete   = true
 rsync_args     = ""  # Any extra arguments to pass to rsync
 deploy_default = "rsync"
 
