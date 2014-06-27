@@ -1,0 +1,1 @@
+https://speakerdeck.com/odolbeau/asynchronous-tasks-in-php

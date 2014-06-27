@@ -1,0 +1,1 @@
+https://speakerdeck.com/thierrymarianne/developper-et-packager-une-application-symfony2-avec-docker

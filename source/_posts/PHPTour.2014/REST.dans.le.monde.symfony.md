@@ -1,0 +1,1 @@
+https://speakerdeck.com/willdurand/rest-dans-le-monde-symfony

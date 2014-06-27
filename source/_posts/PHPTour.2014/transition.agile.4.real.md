@@ -1,0 +1,1 @@
+http://fr.slideshare.net/tdiavet/transition-agile-4-real-meetic
